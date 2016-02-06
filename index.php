@@ -2,4 +2,4 @@
 
 <h2>Welcome to my site</h2>
 
-<img src="/images/space.jpg">
+<img src="images/space.jpg">
